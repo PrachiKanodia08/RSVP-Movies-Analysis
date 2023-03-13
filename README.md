@@ -8,3 +8,5 @@ The production company wants to plan their every move analytically based on data
 The dataset has been provided for the past three years.
 
 The entire analytics process has been divided into four segments, where each segment leads to significant insights from different combinations of tables. The questions in each segment with business objectives are written in the script.
+
+
