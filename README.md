@@ -10,4 +10,4 @@ The dataset has been provided for the past three years.
 The entire analytics process has been divided into four segments, where each segment leads to significant insights from different combinations of tables. The questions in each segment with business objectives are written in the script.
 
 # ERD
-https://github.com/PrachiKanodia08/RSVP-Movies-Analysis/blob/main/RSVP-Movies-ERD.png
+![Screenshot 2023-03-13 193643](https://user-images.githubusercontent.com/69184310/226253814-33cde3e1-f825-4451-a65f-bd1909c07965.png)
